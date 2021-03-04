@@ -123,4 +123,4 @@ async def dota_2(context):
     phrases = ["You should pick ", "I suggest "]
     await context.send(f"{random.choice(phrases)}{random.choice(heroes)}")
 
-bot.run("Njg4MDcyMjg2ODE3MDkxNTg1.Xmu_aw.Cjribb0z7VztbrX1njzACVEYO24")
+bot.run("YOUR TOKEN")
